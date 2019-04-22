@@ -1,0 +1,34 @@
+.button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background: #ffffff;
+    cursor: pointer;
+    float: left;
+    margin-right: 1rem;
+}
+
+.button-green {
+    width: 15rem;    
+    background-color: #9ca85a;    
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+.button-black {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.button-gray {
+    background-color: #3f3f3f;
+    color: #ffffff;
+}
+
+.clearfix {
+    display: table;
+    clear: both;
+    content: '';
+}

@@ -1,0 +1,30 @@
+.dialog {
+    display: flex;
+    flex-direction: column;
+    width: 50em;    
+    margin-top: 2rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    color: #ffffff;
+    background-color: #3f3f3f;
+}
+
+.dialog-content {
+    background-color: #000000;
+    height: 20rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 1rem;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.margin-top-1-5rem {
+    margin-top: 1.5rem;
+}

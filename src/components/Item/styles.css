@@ -1,0 +1,17 @@
+.item {
+    width: 12rem;
+    background-color: black;
+    color: white;
+    padding: 10px 0 10px 1.5rem;
+    margin-right: 1rem;
+    float: left;
+}
+
+.item:last-of-type {
+	margin-right: 0;
+}
+
+.item span {
+	float: left;
+	margin-right: 4rem;
+}
